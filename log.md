@@ -7,5 +7,5 @@
 **Thoughts** I've recently started setting up the repository for Updating the work for each day. Also have worked on the few Unused tags.
 
 **Link(s) to work**
-<a href="girishboke.github.io">girishboke.github.io</a>
-<a href="girishboke.github.io/day01/index.html">Day 01 - UnUsed HTML Tags </a>
+<a href="https://www.girishboke.github.io">girishboke.github.io</a> <br />
+<a href="https://www.girishboke.github.io/day01/index.html">Day 01 - UnUsed HTML Tags </a>
